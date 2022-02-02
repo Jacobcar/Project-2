@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS museums_db;
+CREATE DATABASE museums_db;
